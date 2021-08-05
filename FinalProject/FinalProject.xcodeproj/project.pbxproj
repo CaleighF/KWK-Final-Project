@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F422D07926BC290C009D44BC /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F422D07826BC290C009D44BC /* ViewController2.swift */; };
 		F43BBA0026B9BDF200E294A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F43BB9FF26B9BDF200E294A7 /* AppDelegate.swift */; };
 		F43BBA0226B9BDF200E294A7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F43BBA0126B9BDF200E294A7 /* SceneDelegate.swift */; };
 		F43BBA0426B9BDF200E294A7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F43BBA0326B9BDF200E294A7 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 		F43BBA0F26B9BDF900E294A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F43BBA0D26B9BDF900E294A7 /* LaunchScreen.storyboard */; };
 		F43BBA1A26B9BDFA00E294A7 /* FinalProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F43BBA1926B9BDFA00E294A7 /* FinalProjectTests.swift */; };
 		F43BBA2526B9BDFA00E294A7 /* FinalProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F43BBA2426B9BDFA00E294A7 /* FinalProjectUITests.swift */; };
+		F492B1A426BC3A36004F4AE6 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F492B1A326BC3A36004F4AE6 /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F422D07826BC290C009D44BC /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		F43BB9FC26B9BDF200E294A7 /* FinalProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinalProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F43BB9FF26B9BDF200E294A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F43BBA0126B9BDF200E294A7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +54,7 @@
 		F43BBA2026B9BDFA00E294A7 /* FinalProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinalProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F43BBA2426B9BDFA00E294A7 /* FinalProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalProjectUITests.swift; sourceTree = "<group>"; };
 		F43BBA2626B9BDFA00E294A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F492B1A326BC3A36004F4AE6 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,10 +109,12 @@
 				F43BBA0126B9BDF200E294A7 /* SceneDelegate.swift */,
 				F43BBA0326B9BDF200E294A7 /* ViewController.swift */,
 				F43BBA0526B9BDF200E294A7 /* Main.storyboard */,
+				F422D07826BC290C009D44BC /* ViewController2.swift */,
 				F43BBA0B26B9BDF900E294A7 /* Assets.xcassets */,
 				F43BBA0D26B9BDF900E294A7 /* LaunchScreen.storyboard */,
 				F43BBA1026B9BDF900E294A7 /* Info.plist */,
 				F43BBA0826B9BDF200E294A7 /* FinalProject.xcdatamodeld */,
+				F492B1A326BC3A36004F4AE6 /* ViewController3.swift */,
 			);
 			path = FinalProject;
 			sourceTree = "<group>";
@@ -261,7 +267,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F422D07926BC290C009D44BC /* ViewController2.swift in Sources */,
 				F43BBA0426B9BDF200E294A7 /* ViewController.swift in Sources */,
+				F492B1A426BC3A36004F4AE6 /* ViewController3.swift in Sources */,
 				F43BBA0026B9BDF200E294A7 /* AppDelegate.swift in Sources */,
 				F43BBA0A26B9BDF200E294A7 /* FinalProject.xcdatamodeld in Sources */,
 				F43BBA0226B9BDF200E294A7 /* SceneDelegate.swift in Sources */,
